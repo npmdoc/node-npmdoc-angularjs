@@ -1,4 +1,7 @@
-# api documentation for  [angularjs (v0.0.1)](https://github.com/eugeneware/angularjs#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angularjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angularjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angularjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angularjs)
+# npmdoc-angularjs
+
+#### basic api documentation for  [angularjs (v0.0.1)](https://github.com/eugeneware/angularjs#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angularjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angularjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angularjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angularjs)
+
 #### Browerify angularjs shim
 
 [![NPM](https://nodei.co/npm/angularjs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angularjs)
@@ -61,7 +64,8 @@
     "scripts": {
         "test": "node_module/.bin/mocha"
     },
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "bin": {}
 }
 ```
 
